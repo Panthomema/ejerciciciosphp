@@ -6,7 +6,7 @@
         <title>Ejercicio 13 PHP</title>
     </head>
     <body>
-        <form method="post" action="13.php">
+        <form method="post" action="">
             <label>Nombre </label>
             <input type="text" value="" name="nombre">
             <input type="submit" value="Enviar">
